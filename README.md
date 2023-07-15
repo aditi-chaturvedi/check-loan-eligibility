@@ -10,3 +10,7 @@ c. Then further we see:  <br/>
     ii. expenses <br/>
     iii. income <br/>
     iv. credit card payments to be paid or not
+.
+.
+Use the below link to run the project: (click on app)
+https://huggingface.co/spaces/aditi-chaturvedi/loan_eligbility
